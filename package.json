@@ -1,0 +1,22 @@
+{
+  "name": "npm_test001",
+  "version": "0.0.1",
+  "description": "20210922",
+  "main": "index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HMH0726/123.git"
+  },
+  "keywords": [
+    "test20210922"
+  ],
+  "author": "ME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HMH0726/123/issues"
+  },
+  "homepage": "https://github.com/HMH0726/123#readme"
+}
